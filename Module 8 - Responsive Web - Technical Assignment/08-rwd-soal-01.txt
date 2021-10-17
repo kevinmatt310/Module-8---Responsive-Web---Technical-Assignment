@@ -1,0 +1,4 @@
+1. Responsive Web Design adalah desain website dengan tampilan yang tersusun dengan baik mengikuti ukuran layar di berbagai device dengan tidak mengurangi fitur dan mobilitas website tersebut.
+2. em, ex, ch, rem, vw, vh, vmin, vmax, %
+3. Breakpoint adalah desain yang merespon terhadap lebar ukuran layar tertentu.
+   Kita dapat membuat breakpoint menggunakan media queries. Dengan mengatur perubahan beberapa elemen desain sesuai dengan ukuran lebar layar tertentu.
